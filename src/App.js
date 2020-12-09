@@ -5,7 +5,9 @@ function App() {
   return (
     <div className="App">
       <div className="container-2">
-        part of the Container for #2 with overflow
+        <span>
+          part of the Container for #2 with overflow, it's chopped off
+        </span>
         <Anchor>ANCHOR</Anchor>
       </div>
       <div className="container-3">
